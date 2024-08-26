@@ -1,6 +1,4 @@
 build
 install
 log
-.venv/bin/ptg
-.venv/lib/python3.10
-.venv/bin/f2py
+.venv
