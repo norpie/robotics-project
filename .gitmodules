@@ -1,21 +1,21 @@
 [submodule "src/DynamixelSDK"]
-	path = src/DynamixelSDK
-	url = ssh://git@github.com/ROBOTIS-GIT/DynamixelSDK.git
+    path = src/DynamixelSDK
+    url = https://github.com/ROBOTIS-GIT/DynamixelSDK.git
 [submodule "src/turtlebot3"]
-	path = src/turtlebot3
-	url = ssh://git@github.com/ROBOTIS-GIT/turtlebot3.git
+    path = src/turtlebot3
+    url = https://github.com/ROBOTIS-GIT/turtlebot3.git
 [submodule "src/turtlebot3_interfaces"]
-	path = src/turtlebot3_interfaces
-	url = ssh://git@github.com/autonomous-robots/turtlebot3_interfaces
+    path = src/turtlebot3_interfaces
+    url = https://github.com/autonomous-robots/turtlebot3_interfaces
 [submodule "src/turtlebot3_mapper"]
-	path = src/turtlebot3_mapper
-	url = ssh://git@github.com/autonomous-robots/turtlebot3_mapper
+    path = src/turtlebot3_mapper
+    url = https://github.com/autonomous-robots/turtlebot3_mapper
 [submodule "src/turtlebot3_msgs"]
-	path = src/turtlebot3_msgs
-	url = ssh://git@github.com/ROBOTIS-GIT/turtlebot3_msgs.git
+    path = src/turtlebot3_msgs
+    url = https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
 [submodule "src/turtlebot3_simulations"]
-	path = src/turtlebot3_simulations
-	url = ssh://git@github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+    path = src/turtlebot3_simulations
+    url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
 [submodule "src/vision_msgs"]
-	path = src/vision_msgs
-	url = ssh://git@github.com/ros-perception/vision_msgs/
+    path = src/vision_msgs
+    url = https://github.com/ros-perception/vision_msgs/
