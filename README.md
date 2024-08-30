@@ -25,6 +25,9 @@ source install/setup.bash
 
 ### Running the project
 
+> [!IMPORTANT]
+> Run the following commands in separate terminal/bash instances, all sourced with the workspace.
+
 #### Launch the world
 
 ```bash
